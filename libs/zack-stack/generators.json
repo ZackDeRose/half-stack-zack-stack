@@ -1,6 +1,6 @@
 {
   "$schema": "http://json-schema.org/schema",
-  "name": "trpc",
+  "name": "zack-stack",
   "version": "0.0.1",
   "generators": {
     "app": {

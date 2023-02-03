@@ -1,8 +1,8 @@
-# NxTrpcDemo
+# Halfstack
 
-This project is a demo of using [trpc](https://trpc.io) with [Nx](https://nx.dev) - we'll be using this in our livestream with tRPC core members;
+This project demonstrates creating your own stack - for a talk for HalfStack Conf 2023 in Phoenix, AZ.
 
-[YouTube link](https://www.youtube.com/watch?v=W-9cwIn-YSM)
+[HalfStack link](https://halfstackconf.com/phoenix/)
 
 ## Understand this workspace
 
