@@ -4,6 +4,23 @@ This project demonstrates creating your own stack - for a talk for HalfStack Con
 
 [HalfStack link](https://halfstackconf.com/phoenix/)
 
+## Try It Yourself
+
+To create your own "zack stack app" run:
+
+```bash
+npx nx g @halfstack/zack-stack:app foo
+```
+^ replacing `foo` with the desired name for your application.
+
+Then to run this app in dev mode, run the command:
+
+```bash
+npx nx serve-fullstack foo-web
+```
+^ Again replacing `foo-web` with `your-name-web`.
+
+
 ## Understand this workspace
 
 Run `nx graph` to see a diagram of the dependencies of the projects.
