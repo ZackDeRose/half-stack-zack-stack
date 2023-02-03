@@ -43,7 +43,7 @@ async function createReactApplication(
     name: webAppName,
     linter: Linter.EsLint,
     style: 'css',
-    e2eTestRunner: 'none',
+    e2eTestRunner: 'cypress',
     unitTestRunner: 'vitest',
     bundler: 'vite',
     devServerPort: options.frontendPort,
